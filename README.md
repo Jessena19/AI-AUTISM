@@ -161,6 +161,15 @@ The system automatically plays audio prompts in sequence and waits for the child
 * Engagement Score
 
 ---
+## IMAGES
+<img width="716" height="1280" alt="PROOF - WHY THIS PROJECT IS NEEDED" src="https://github.com/user-attachments/assets/364490d0-f791-4c91-be64-d13781748516" />
+<img width="1407" height="815" alt="PHASE 3- INTERACTIVE AUDIO" src="https://github.com/user-attachments/assets/c57cfca4-8e00-4c26-9f62-e38682180cde" />
+<img width="1600" height="820" alt="PHASE 2 -VISUAL RESPONSE" src="https://github.com/user-attachments/assets/0f5a0bb2-7979-4244-90f3-19fa97fc6cb3" />
+<img width="1515" height="702" alt="HOSPITAL DASHBOARD" src="https://github.com/user-attachments/assets/323b98f2-861d-47e0-ba75-c2ea96a62906" />
+<img width="771" height="593" alt="ANALYSING -2" src="https://github.com/user-attachments/assets/1ecb72bf-9123-4fe9-a52a-55da0a9c3573" />
+<img width="1024" height="851" alt="ANALYSING -1" src="https://github.com/user-attachments/assets/d1339269-4c2b-4e2c-869c-0fc4bb014691" />
+<img width="521" height="304" alt="SCORE CALCULATED" src="https://github.com/user-attachments/assets/85fe99b3-bfb6-4299-9c10-656117291e02" />
+
 
 ## 🎓 Applications
 
