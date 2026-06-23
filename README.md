@@ -1,4 +1,4 @@
-# AUTIS – AI-Based Autism Interaction & Monitoring System
+# AUTISM – AI-Based Autism Interaction & Monitoring System
 
 ## 📌 Overview
 
